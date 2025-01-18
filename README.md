@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer
 ------------------
+Welcome to my GitHub portfolio! I'm a <b>Frontend Developer</b> specializing in building modern, responsive web applications using React.
 
 * 🌍  I'm based in Cairo - Egypt
 * ✉️  You can contact me at [ahmedtalha40498@gmail.com](mailto:ahmedtalha40498@gmail.com)

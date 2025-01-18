@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a Frontend Developer specializing in buildin
 
 Passionate about creating interactive and user-friendly web experiences.
 
-Skilled in React, JavaScript, HTML, CSS, and modern UI libraries.
+Skilled in React, JavaScript, HTML, CSS
 
 Always learning new technologies and improving my development skills.
 

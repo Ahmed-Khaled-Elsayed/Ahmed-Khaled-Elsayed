@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Khaled
 ====================================================================================================================================
 
-Frontend Developer
-Welcome to my GitHub portfolio! I'm a <b>Frontend Developer</b> specializing in building modern, responsive web applications using React.
+<h2>Frontend Developer</h2>
+Welcome to my GitHub portfolio! I'm a <b>Frontend Developer</b> specializing in building modern, responsive web applications using <b>React</b>.
 
 📌 Technologies & Tools
 ------------------------

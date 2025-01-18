@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm a Frontend Developer specializing in building modern, responsive web applications using React.
 
-###🚀 About Me
+### About Me:
 
 Passionate about creating interactive and user-friendly web experiences.
 

@@ -10,7 +10,7 @@ Skilled in React, JavaScript, HTML, CSS
 
 Always learning new technologies and improving my development skills.
 
-### Skills
+### Skills:
 
 
 <p align="left">

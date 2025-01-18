@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! I'm a Frontend Developer specializing in building modern, responsive web applications using React.
 
 🚀 About Me
-
+------------
 Passionate about creating interactive and user-friendly web experiences.
 
 Skilled in React, JavaScript, HTML, CSS
@@ -29,7 +29,7 @@ Always learning new technologies and improving my development skills.
 
 
 📫 Connect with Me:
-....................
+--------------------
 Email: ahmedtalha40498@gmail.com
 
 
